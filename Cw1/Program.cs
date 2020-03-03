@@ -57,5 +57,6 @@ namespace Cw1
                 }
             }
         }
+        // todo zrobić zadanie 4 i 5
     }
 }
